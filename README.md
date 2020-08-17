@@ -23,7 +23,7 @@
 [<img align="left" alt="simo_sultan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="simo_sultan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="simo_sultan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
+[<img align="left" alt="simo_sultan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 <br />
 
@@ -62,6 +62,7 @@
 - [Time Management…..and a Tech Bootcamp](https://medium.com/@simo_sultan/time-management-and-a-tech-bootcamp-c300e755b0b?source=rss-db49a46673f9------2)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...][medium]
 ---
 
 <details>
