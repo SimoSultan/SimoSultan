@@ -72,6 +72,9 @@
 
   [![SimoSultan's GitHub Stats](https://github-readme-stats.simosultan.vercel.app/api?username=SimoSultan)](https://github.com/SimoSultan)
 
+  [![Top Langs](https://github-readme-stats.simosultan.vercel.app/api/top-langs/?username=SimoSultan&layout=compact)](https://github.com/SimoSultan)
+
+
 
 </details>
 
