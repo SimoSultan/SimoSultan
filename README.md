@@ -51,6 +51,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What I learnt from building my first portfolio website](https://medium.com/@simo_sultan/what-i-learnt-from-building-my-first-portfolio-website-66a607d45de5?source=rss-db49a46673f9------2)
+- [What I learnt from building a Ruby terminal application.](https://medium.com/@simo_sultan/what-i-learnt-from-building-a-ruby-terminal-application-9d22aa4297db?source=rss-db49a46673f9------2)
+- [My first coherent Ruby terminal app](https://medium.com/@simo_sultan/my-first-coherent-ruby-terminal-app-4f743b768dd3?source=rss-db49a46673f9------2)
+- [Time Management…..and a Tech Bootcamp](https://medium.com/@simo_sultan/time-management-and-a-tech-bootcamp-c300e755b0b?source=rss-db49a46673f9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
