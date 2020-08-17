@@ -56,6 +56,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What I learnt from building my first portfolio website](https://medium.com/@simo_sultan/what-i-learnt-from-building-my-first-portfolio-website-66a607d45de5?source=rss-db49a46673f9------2)
+- [What I learnt from building a Ruby terminal application.](https://medium.com/@simo_sultan/what-i-learnt-from-building-a-ruby-terminal-application-9d22aa4297db?source=rss-db49a46673f9------2)
+- [My first coherent Ruby terminal app](https://medium.com/@simo_sultan/my-first-coherent-ruby-terminal-app-4f743b768dd3?source=rss-db49a46673f9------2)
+- [Time Management…..and a Tech Bootcamp](https://medium.com/@simo_sultan/time-management-and-a-tech-bootcamp-c300e755b0b?source=rss-db49a46673f9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -64,6 +68,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com//jh3y/blurbs/pull/3) in [jh3y/blurbs](https://github.com//jh3y/blurbs)
+2. 💪 Opened PR [#2](https://github.com//SimoSultan/mashup_rails/pull/2) in [SimoSultan/mashup_rails](https://github.com//SimoSultan/mashup_rails)
 <!--END_SECTION:activity-->
 
 </details>
