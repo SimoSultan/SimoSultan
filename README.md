@@ -72,8 +72,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//jh3y/blurbs/pull/3) in [jh3y/blurbs](https://github.com//jh3y/blurbs)
-2. 💪 Opened PR [#2](https://github.com//SimoSultan/mashup_rails/pull/2) in [SimoSultan/mashup_rails](https://github.com//SimoSultan/mashup_rails)
+1. 🎉 Merged PR [#3](https://github.com//SimoSultan/spotify-party-playlist/pull/3) in [SimoSultan/spotify-party-playlist](https://github.com//SimoSultan/spotify-party-playlist)
+2. 🎉 Merged PR [#2](https://github.com//SimoSultan/spotify-party-playlist/pull/2) in [SimoSultan/spotify-party-playlist](https://github.com//SimoSultan/spotify-party-playlist)
 <!--END_SECTION:activity-->
 
 </details>
