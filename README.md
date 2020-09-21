@@ -4,12 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/simo_sultan?color=%234183C4&logo=twitter&style=for-the-badge)][twitter]
 <!-- [![LinkedIn](	https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] -->
 
-## I'm a Partner, Developer, Business Owner and Teacher!
+## I'm a Fiancée, Developer, Business Owner and Teacher!
 
-- 🔭 I’m currently studying Web Development at [Coder Academy][course]!
-- 🌱 I’m currently learning Ruby on Rails and React 
+- 🔭 I study Web Development at [Coder Academy][course] 3 days/week and work as driving instructor 4 days/week
+- 🌱 I’m currently learning the M.E.R.N. stack
 - 👯 I’m looking forward to working in a team environment again
-- 🥅 2020 Goals: Build as many small and random apps I can with my little spare time and contribute to my first Open Source project
+- 🥅 2020 Goals: Build as many small and random apps I can and contribute to my first Open Source project
 - ⚡ Fun facts: I love coding / learning / teaching / cycling / Chris Nolan movies / Washed Out / Hearthstone
 
 <!-- ### What I'm listening to on Spotify now 🎧
