@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com//SimoSultan/spotify-party-playlist/pull/10) in [SimoSultan/spotify-party-playlist](https://github.com//SimoSultan/spotify-party-playlist)
-2. 🎉 Merged PR [#9](https://github.com//SimoSultan/spotify-party-playlist/pull/9) in [SimoSultan/spotify-party-playlist](https://github.com//SimoSultan/spotify-party-playlist)
+1. 🎉 Merged PR [#14](https://github.com//SimoSultan/spotify-party-playlist/pull/14) in [SimoSultan/spotify-party-playlist](https://github.com//SimoSultan/spotify-party-playlist)
+2. 🎉 Merged PR [#11](https://github.com//SimoSultan/spotify-party-playlist/pull/11) in [SimoSultan/spotify-party-playlist](https://github.com//SimoSultan/spotify-party-playlist)
 <!--END_SECTION:activity-->
 
 </details>
