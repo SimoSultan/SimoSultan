@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/SimoSultan/spotify-party-playlist/pull/18) in [SimoSultan/spotify-party-playlist](https://github.com/SimoSultan/spotify-party-playlist)
-2. 🎉 Merged PR [#17](https://github.com/SimoSultan/spotify-party-playlist/pull/17) in [SimoSultan/spotify-party-playlist](https://github.com/SimoSultan/spotify-party-playlist)
+1. 🗣 Commented on [#4](https://github.com/MeghalBisht/Gamergram/issues/4) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+2. 🗣 Commented on [#15927](https://github.com/mattermost/mattermost-server/issues/15927) in [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
 <!--END_SECTION:activity-->
 
 </details>
