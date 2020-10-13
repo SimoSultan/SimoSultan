@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/MeghalBisht/Gamergram/issues/4) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
-2. 🗣 Commented on [#15927](https://github.com/mattermost/mattermost-server/issues/15927) in [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
+1. 🗣 Commented on [#21](https://github.com/Atria64/TwD3/issues/21) in [Atria64/TwD3](https://github.com/Atria64/TwD3)
+2. 💪 Opened PR [#22](https://github.com/Atria64/TwD3/pull/22) in [Atria64/TwD3](https://github.com/Atria64/TwD3)
 <!--END_SECTION:activity-->
 
 </details>
