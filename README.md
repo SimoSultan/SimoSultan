@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/Atria64/TwD3/issues/21) in [Atria64/TwD3](https://github.com/Atria64/TwD3)
-2. 💪 Opened PR [#22](https://github.com/Atria64/TwD3/pull/22) in [Atria64/TwD3](https://github.com/Atria64/TwD3)
+1. 🗣 Commented on [#22](https://github.com/Atria64/TwD3/issues/22) in [Atria64/TwD3](https://github.com/Atria64/TwD3)
+2. 🗣 Commented on [#21](https://github.com/Atria64/TwD3/issues/21) in [Atria64/TwD3](https://github.com/Atria64/TwD3)
 <!--END_SECTION:activity-->
 
 </details>
