@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/keefer-tech/PPMv2/pull/2) in [keefer-tech/PPMv2](https://github.com/keefer-tech/PPMv2)
-2. 🗣 Commented on [#22](https://github.com/Atria64/TwD3/issues/22) in [Atria64/TwD3](https://github.com/Atria64/TwD3)
+1. 💪 Opened PR [#7](https://github.com/keefer-tech/PPMv2/pull/7) in [keefer-tech/PPMv2](https://github.com/keefer-tech/PPMv2)
+2. 💪 Opened PR [#2](https://github.com/keefer-tech/PPMv2/pull/2) in [keefer-tech/PPMv2](https://github.com/keefer-tech/PPMv2)
 <!--END_SECTION:activity-->
 
 </details>
