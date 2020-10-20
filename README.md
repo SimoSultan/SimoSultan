@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/keefer-tech/PPMv2/pull/25) in [keefer-tech/PPMv2](https://github.com/keefer-tech/PPMv2)
-2. 💪 Opened PR [#24](https://github.com/keefer-tech/PPMv2/pull/24) in [keefer-tech/PPMv2](https://github.com/keefer-tech/PPMv2)
+1. 💪 Opened PR [#27](https://github.com/keefer-tech/PPMv2/pull/27) in [keefer-tech/PPMv2](https://github.com/keefer-tech/PPMv2)
+2. 💪 Opened PR [#25](https://github.com/keefer-tech/PPMv2/pull/25) in [keefer-tech/PPMv2](https://github.com/keefer-tech/PPMv2)
 <!--END_SECTION:activity-->
 
 </details>
