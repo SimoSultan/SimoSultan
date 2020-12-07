@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/philrussel21/curtain_co_BE/pull/2) in [philrussel21/curtain_co_BE](https://github.com/philrussel21/curtain_co_BE)
-2. 💪 Opened PR [#1](https://github.com/philrussel21/curtain_co_BE/pull/1) in [philrussel21/curtain_co_BE](https://github.com/philrussel21/curtain_co_BE)
+1. 💪 Opened PR [#3](https://github.com/philrussel21/curtain_co_BE/pull/3) in [philrussel21/curtain_co_BE](https://github.com/philrussel21/curtain_co_BE)
+2. ❌ Closed PR [#2](https://github.com/philrussel21/curtain_co_BE/pull/2) in [philrussel21/curtain_co_BE](https://github.com/philrussel21/curtain_co_BE)
 <!--END_SECTION:activity-->
 
 </details>
