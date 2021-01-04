@@ -70,8 +70,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/SimoSultan/curtainco_fe/pull/16) in [SimoSultan/curtainco_fe](https://github.com/SimoSultan/curtainco_fe)
-2. 💪 Opened PR [#16](https://github.com/SimoSultan/curtainco_fe/pull/16) in [SimoSultan/curtainco_fe](https://github.com/SimoSultan/curtainco_fe)
+1. 🎉 Merged PR [#17](https://github.com/SimoSultan/curtainco_fe/pull/17) in [SimoSultan/curtainco_fe](https://github.com/SimoSultan/curtainco_fe)
+2. 💪 Opened PR [#17](https://github.com/SimoSultan/curtainco_fe/pull/17) in [SimoSultan/curtainco_fe](https://github.com/SimoSultan/curtainco_fe)
 <!--END_SECTION:activity-->
 
 </details>
