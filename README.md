@@ -1,16 +1,18 @@
-### Hi there, I'm Simon - aka [simo_sultan](https://www.simonmcurran.com/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Simon - aka [simo_sultan](https://www.simonmcurran.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- [![Website](https://img.shields.io/github/followers/SimoSultan?logo=GitHub&style=for-the-badge)][website] -->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/simo_sultan?color=%234183C4&logo=twitter&style=for-the-badge)][twitter]
+
 <!-- [![LinkedIn](	https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] -->
 
-## I'm a Fiancée, Developer, Business Owner and Teacher!
+## I'm a Developer, Business Owner and Teacher!
 
-- 🔭 I study Web Development at [Coder Academy][course] 3 days/week and work as driving instructor 4 days/week
-- 🌱 I’m currently learning the M.E.R.N. stack
-- 👯 I’m looking forward to working in a team environment again
-- 🥅 2020 Goals: Build as many small and random apps I can and contribute to my first Open Source project
-- ⚡ Fun facts: I love coding / learning / teaching / cycling / Chris Nolan movies / Washed Out / Hearthstone
+-   🔭 I have finished studying at [Coder Academy][course] and looking to secure a job in the tech industry
+-   👯 I’m looking forward to working in a team environment again. One who is diverse and with good culture
+-   🥅 2021 Goals: Strengthen my existing skills and add another FE and BE language to my tool belt
+-   🌱 Have a wedding planned for 2022, hopefully post-Covid enough
+-   ⚡ Fun facts: I love coding / learning / teaching / cycling / Chris Nolan movies / Washed Out / Hearthstone
 
 <!-- ### What I'm listening to on Spotify now 🎧
 
@@ -35,14 +37,14 @@
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
-<!-- <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="jQuery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="Ruby" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="Rails" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<!-- <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -50,21 +52,20 @@
 <br />
 <br />
 
-
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learnt from building my first portfolio website](https://medium.com/@simo_sultan/what-i-learnt-from-building-my-first-portfolio-website-66a607d45de5?source=rss-db49a46673f9------2)
-- [What I learnt from building a Ruby terminal application.](https://medium.com/@simo_sultan/what-i-learnt-from-building-a-ruby-terminal-application-9d22aa4297db?source=rss-db49a46673f9------2)
-- [My first coherent Ruby terminal app](https://medium.com/@simo_sultan/my-first-coherent-ruby-terminal-app-4f743b768dd3?source=rss-db49a46673f9------2)
-- [Time Management…..and a Tech Bootcamp](https://medium.com/@simo_sultan/time-management-and-a-tech-bootcamp-c300e755b0b?source=rss-db49a46673f9------2)
+
+-   [What I learnt from building my first portfolio website](https://medium.com/@simo_sultan/what-i-learnt-from-building-my-first-portfolio-website-66a607d45de5?source=rss-db49a46673f9------2)
+-   [What I learnt from building a Ruby terminal application.](https://medium.com/@simo_sultan/what-i-learnt-from-building-a-ruby-terminal-application-9d22aa4297db?source=rss-db49a46673f9------2)
+-   [My first coherent Ruby terminal app](https://medium.com/@simo_sultan/my-first-coherent-ruby-terminal-app-4f743b768dd3?source=rss-db49a46673f9------2)
+-   [Time Management…..and a Tech Bootcamp](https://medium.com/@simo_sultan/time-management-and-a-tech-bootcamp-c300e755b0b?source=rss-db49a46673f9------2)
 
 ➡️ [more blog posts...][medium]
 
 <!-- BLOG-POST-LIST:END -->
-
 
 ---
 
@@ -81,11 +82,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![SimoSultan's GitHub Stats](https://github-readme-stats.simosultan.vercel.app/api?username=SimoSultan)](https://github.com/SimoSultan)
+[![SimoSultan's GitHub Stats](https://github-readme-stats.simosultan.vercel.app/api?username=SimoSultan)](https://github.com/SimoSultan)
 
-  [![Top Langs](https://github-readme-stats.simosultan.vercel.app/api/top-langs/?username=SimoSultan&layout=compact)](https://github.com/SimoSultan)
-
-
+[![Top Langs](https://github-readme-stats.simosultan.vercel.app/api/top-langs/?username=SimoSultan&layout=compact)](https://github.com/SimoSultan)
 
 </details>
 
