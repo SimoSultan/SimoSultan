@@ -8,8 +8,8 @@
 
 ## I'm a Developer, Business Owner and Teacher!
 
--   🔭 I have finished studying at [Coder Academy][course] and looking to secure a job in the tech industry
--   👯 I’m looking forward to working in a team environment again. One who is diverse and with good culture
+-   🔭 I have finished studying at [Coder Academy][course] and now looking to secure a job in the tech industry
+-   👯 I’m looking forward to working in a team environment again, one that is diverse and has good culture
 -   🥅 2021 Goals: Strengthen my existing skills and add another FE and BE language to my tool belt
 -   🌱 Have a wedding planned for 2022, hopefully post-Covid enough
 -   ⚡ Fun facts: I love coding / learning / teaching / cycling / Chris Nolan movies / Washed Out / Hearthstone
