@@ -57,12 +57,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [My Weaknesses as a Developer](https://medium.com/@simo_sultan/my-weaknesses-as-a-developer-ac98b3987165?source=rss-db49a46673f9------2)
--   [A rough guide to create a CSS Avatar](https://medium.com/@simo_sultan/a-rough-guide-to-create-a-css-avatar-bb9888011887?source=rss-db49a46673f9------2)
--   [What I learnt from building my first portfolio website](https://medium.com/@simo_sultan/what-i-learnt-from-building-my-first-portfolio-website-66a607d45de5?source=rss-db49a46673f9------2)
--   [What I learnt from building a Ruby terminal application.](https://medium.com/@simo_sultan/what-i-learnt-from-building-a-ruby-terminal-application-9d22aa4297db?source=rss-db49a46673f9------2)
--   [My first coherent Ruby terminal app](https://medium.com/@simo_sultan/my-first-coherent-ruby-terminal-app-4f743b768dd3?source=rss-db49a46673f9------2)
+- [My Weaknesses as a Developer](https://medium.com/@simo_sultan/my-weaknesses-as-a-developer-ac98b3987165?source=rss-db49a46673f9------2)
+- [A rough guide to create a CSS Avatar](https://medium.com/@simo_sultan/a-rough-guide-to-create-a-css-avatar-bb9888011887?source=rss-db49a46673f9------2)
+- [What I learnt from building my first portfolio website](https://medium.com/@simo_sultan/what-i-learnt-from-building-my-first-portfolio-website-66a607d45de5?source=rss-db49a46673f9------2)
+- [What I learnt from building a Ruby terminal application.](https://medium.com/@simo_sultan/what-i-learnt-from-building-a-ruby-terminal-application-9d22aa4297db?source=rss-db49a46673f9------2)
+- [My first coherent Ruby terminal app](https://medium.com/@simo_sultan/my-first-coherent-ruby-terminal-app-4f743b768dd3?source=rss-db49a46673f9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
