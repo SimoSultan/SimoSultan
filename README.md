@@ -6,7 +6,7 @@
 
 <!-- [![LinkedIn](	https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] -->
 
-## I'm a Developer, Business Owner and Teacher!
+## I'm a Developer, Business Owner, Teacher and Engineer!
 
 -   🔭 I have finished studying at [Coder Academy][course] and now looking to secure a job in the tech industry
 -   👯 I’m looking forward to working in a team environment again, one that is diverse and has good culture
