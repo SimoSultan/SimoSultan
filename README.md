@@ -1,94 +1,35 @@
-### Hi there, I'm Simon - aka [simo-sultan](https://www.simoncurran.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Simon Curran — @SimoSultan
 
-<!-- [![Website](https://img.shields.io/github/followers/SimoSultan?logo=GitHub&style=for-the-badge)][website] -->
+Software Consultant and Senior Engineer in Brisbane, Australia.
+Building with AI, self-hosted infrastructure, and too many side projects.
+[simoncurran.dev](https://simoncurran.dev)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/simo_sultan?color=%234183C4&logo=twitter&style=for-the-badge)][twitter]
+## Now
 
-<!-- [![LinkedIn](	https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] -->
+- **Software & AI Consultant — Sole Trader** (2026–present)
+  Designing and building local AI solutions for businesses, from knowledge gained building my own home server.
+- **App Developer — Sole Trader** (2026–present)
+  Web and native apps shipped to Google Play and the App Store.
+- **Senior Engineer — Entain** (2025–present)
+  Led complex features end-to-end, built core and racing design systems for web, mentored engineers,
+  and built out AI software infrastructure across product teams.
 
-## I'm a Developer, Business Owner, Teacher and Engineer!
+Previously: Frontend Engineer at Entain (2022–2025), junior/grad rotation (2021–2022),
+Coder Academy Certificate IV in IT (2021), Bachelor of Civil Engineering, UQ (2014).
+Self-taught programmer before all of it.
 
--   🔭 I have finished studying at [Coder Academy][course] and now looking to secure a job in the tech industry
--   👯 I’m looking forward to working in a team environment again, one that is diverse and has good culture
--   🥅 2021 Goals: Strengthen my existing skills and add another FE and BE language to my tool belt
--   ⚡ Fun facts: I love coding / learning / teaching / cycling / movies & TV / music
+## Stack
 
-<!-- ### What I'm listening to on Spotify now 🎧
+TypeScript · React · React Native · Next.js · Node · Go · Python · PostgreSQL · Docker
 
-[<img src="https://spotify-readme-14p2zfn2g.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/1231189291?si=ow_aBQuESF-rjz9Db5wkzg) -->
+### Pre-AI
 
-### Connect with me:
+AWS · Supabase
 
-[<img align="left" alt="simonmcurran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="simo_sultan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="simo_sultan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="simo_sultan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="simo_sultan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="simo_sultan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+### Post AI
 
-<br />
+Claude · Copilot · OpenCode · LM Studio
 
-### Languages and Tools:
+## Contact
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="jQuery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="Ruby" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="Rails" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [My Weaknesses as a Developer](https://medium.com/@simo_sultan/my-weaknesses-as-a-developer-ac98b3987165?source=rss-db49a46673f9------2)
-- [A rough guide to create a CSS Avatar](https://medium.com/@simo_sultan/a-rough-guide-to-create-a-css-avatar-bb9888011887?source=rss-db49a46673f9------2)
-- [What I learnt from building my first portfolio website](https://medium.com/@simo_sultan/what-i-learnt-from-building-my-first-portfolio-website-66a607d45de5?source=rss-db49a46673f9------2)
-- [What I learnt from building a Ruby terminal application.](https://medium.com/@simo_sultan/what-i-learnt-from-building-a-ruby-terminal-application-9d22aa4297db?source=rss-db49a46673f9------2)
-- [My first coherent Ruby terminal app](https://medium.com/@simo_sultan/my-first-coherent-ruby-terminal-app-4f743b768dd3?source=rss-db49a46673f9------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SimoSultan/portfolio_v2/pull/1) in [SimoSultan/portfolio_v2](https://github.com/SimoSultan/portfolio_v2)
-2. 💪 Opened PR [#1](https://github.com/SimoSultan/portfolio_v2/pull/1) in [SimoSultan/portfolio_v2](https://github.com/SimoSultan/portfolio_v2)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-[![SimoSultan's GitHub Stats](https://github-readme-stats.simosultan.vercel.app/api?username=SimoSultan)](https://github.com/SimoSultan)
-
-[![Top Langs](https://github-readme-stats.simosultan.vercel.app/api/top-langs/?username=SimoSultan&layout=compact)](https://github.com/SimoSultan)
-
-</details>
-
-[website]: https://www.simonmcurran.com/
-[twitter]: https://twitter.com/simo_sultan
-[linkedin]: https://www.linkedin.com/in/simo-sultan/
-[github]: https://github.com/SimoSultan
-[medium]: https://medium.com/@simo_sultan
-[codepen]: https://codepen.io/simo_sultan
-[course]: https://coderacademy.edu.au/
-
+simosultan2020@gmail.com · [GitHub](https://github.com/SimoSultan) · [LinkedIn](https://www.linkedin.com/in/simo-sultan/)
