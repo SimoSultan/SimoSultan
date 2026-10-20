@@ -20,11 +20,9 @@ Self-taught programmer before all of it.
 
 ## Stack
 
-TypeScript · React · React Native · Next.js · Node · Go · Python · PostgreSQL · Docker
-
 ### Pre-AI
 
-AWS · Supabase
+TypeScript · React · React Native · Vue · GraphQL · CSS · Tailwind · Node · Go · Python · Docker
 
 ### Post AI
 
